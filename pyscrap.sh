@@ -1,0 +1,1 @@
+python pyscrap.py $1
