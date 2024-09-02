@@ -1,5 +1,5 @@
 # Pyscrap
-A small python program that retrieves and prints out any url's source code
+A small python program that retrieves and prints out any url's source
 
 ## 🤔 Example
 ```bash
